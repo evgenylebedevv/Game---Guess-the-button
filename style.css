@@ -1,0 +1,17 @@
+.btn {
+    width: 10vw;
+    height: 5vh;
+    color: #1e5052;
+    margin: 1vh;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.background {
+    background-color: #ffcc43;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
